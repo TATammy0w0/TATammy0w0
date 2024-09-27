@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/DDZUE5g8YgklCgQKaf/giphy.gif" width="500"/>
   
   <h1>
-    Hey there! I'm Wenjing (Tammy) Ma
+    Hi, I'm Wenjing (Tammy) Ma!
   </h1>
 
   <!---
@@ -19,6 +19,9 @@
     <a href="https://github.com/TATammy0w0">
       <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/></a>&nbsp;&nbsp;&nbsp;
     </a>
+    <a href="https://tatammy.itch.io/">
+      <img src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch Badge"/></a>&nbsp;&nbsp;&nbsp;
+    </a>
   </div>
 
 </div>
@@ -27,8 +30,8 @@
 
 <div>
   <ul>
-    <li>💻 I’m a Computer Science Master's student at Northeastern University
-    <li>🌱 Previously interned at AlterStaff and HiveTec Corporation as a software developer
+    <li>💻 A Computer Science Master's student at Northeastern University, expected to graduate in May 2026.
+    <li>🌱 Previously interned at AlterStaff and HiveTec Corporation as a software developer.
     <li>🐱 A Cat lover. Also love singing, brewing coffee, hiking, and playing video games!
     <li>👩🏻 Pronouns: she/her
   </ul>
