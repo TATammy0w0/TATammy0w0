@@ -10,18 +10,20 @@
   --->
   
   <div class="badges">
-    <a href="https://www.linkedin.com/in/tammyma">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a target="_blank"href="https://www.linkedin.com/in/tammyma">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="mailto:tammyma.dev@gmail.com">
-      <img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a target="_blank"href="mailto:tammyma.dev@gmail.com">
+      <img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://github.com/TATammy0w0">
-      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=#181717" alt="GitHub Badge"/></a>&nbsp;&nbsp;&nbsp;
     </a>
   </div>
 
 </div>
+
+<br>
 
 <div>
   <ul>
@@ -32,10 +34,12 @@
   </ul>
 </div>
 
+<br>
+
 ## Languages & Tools
 <!---
 ![Java]()
-![Python]()
+![Python](https://img.shields.io/badge/Python?style=flat-square&logo=python&logoColor=white)
 ![C\#]()
 --->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-squre&logo=html5&logoColor=white)
@@ -56,6 +60,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
+<br>
 
 ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=TATammy0w0&theme=swift&card_width=600&card_height=200)](https://git.io/streak-stats)
