@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/DDZUE5g8YgklCgQKaf/giphy.gif" width="500"/>
   
   <h1>
-    Hi, I'm Wenjing (Tammy) Ma!
+    Hi, I'm Wenjing (Tammy) Ma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
 
   <!---
@@ -33,7 +33,6 @@
     <li>💻 A Computer Science Master's student at Northeastern University, expected to graduate in May 2026.
     <li>🌱 Previously interned at AlterStaff and HiveTec Corporation as a software developer.
     <li>🐱 A Cat lover. Also love singing, brewing coffee, hiking, and playing video games!
-    <li>👩🏻 Pronouns: she/her
   </ul>
 </div>
 
