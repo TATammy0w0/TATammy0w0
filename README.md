@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/DDZUE5g8YgklCgQKaf/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/DDZUE5g8YgklCgQKaf/giphy.gif" width="400"/>
   
   <h1>
     Hi, I'm Wenjing (Tammy) Ma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
