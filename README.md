@@ -69,7 +69,7 @@ Tools:
 <br>
 
 ## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TATammy0w0&theme=swift&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TATammy0w0&theme=swift&hide_border=true&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60px"/>
