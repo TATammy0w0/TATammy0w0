@@ -30,8 +30,8 @@
 
 <div>
   <ul>
-    <li>💻 A Computer Science Master's student at Northeastern University, expected to graduate in May 2026.
-    <li>🌱 Previously interned at AlterStaff and HiveTec Corporation as a software developer.
+    <li>💻 A Computer Science Master's student at Northeastern University, expected to graduate in December 2025.
+    <li>🌱 Previously interned at Amazon, AlterStaff and HiveTec Corporation as a software engineer.
     <li>🐱 A Cat lover. Also love singing, brewing coffee, hiking, and playing video games!
   </ul>
 </div>
